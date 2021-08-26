@@ -8,6 +8,5 @@
 </p>
 
 <a href="https://github.com/ClueForce/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaljuRealmNetwork&langs_count=6&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="SaljuRealmNetwork"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaljuRealmNetwork&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="SaljuRealmNetwork"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaljuRealmNetwork&layout=compact)](https://github.com/anuraghazra/github-readme-"/>
 <a href="https://discord.gg/bSdAAUTsGQ"><p><img align="center" src="https://discord.com/api/guilds/801709243220099102/embed.png?style=banner3" alt="discord"/></a>
