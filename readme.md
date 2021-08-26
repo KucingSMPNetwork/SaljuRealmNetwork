@@ -8,5 +8,5 @@
 </p>
 
 <a href="https://github.com/ClueForce/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaljuRealmNetwork&layout=compact)](https://github.com/anuraghazra/github-readme-"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordBot2020&layout=compact)](Dsc.gg/saljurealm"/>
 <a href="https://discord.gg/bSdAAUTsGQ"><p><img align="center" src="https://discord.com/api/guilds/801709243220099102/embed.png?style=banner3" alt="discord"/></a>
